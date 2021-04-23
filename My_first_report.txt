@@ -1,0 +1,13 @@
+Quickly address important business questions like:
+
+1.Are the current sales trends meeting organizational goals?
+2.How are revenue and profit measures now compared to last month, quarter, or year?
+3.Which products, regions, and sales reps are performing the best and worst?
+4.Who are your top customers and which sales channels are outperforming others?
+5.What is the return rate or ratio of the product?
+
+So, above all question, the answer is simple -Analysis, and this can be done by one of the powerful business intelligence tools like the Power BI which allow us to use the interactive dashboard and analyze the data in a very effective manner.
+
+In this the first report is based upon the sales analysis it shows the data of the various field and inventory This analysis gives business users an overview of their organization’s sales performance from multiple aspects such as by customer, geography, product, sales representative, etc. It allows executives to get a pulse on how the business is doing while giving managers and analysts the ability to dive deeper into the data to efficiently identify what strategies are working and find out exactly where improvements are needed. Using product analytics can really help your business mold the vision that you need to convey and offer to your customers.
+
+Hope you like it and feel free to comment with your views.

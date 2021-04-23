@@ -1,0 +1,38 @@
+What is Stock Market Analysis?
+Stock Market analysis is a method for investors and traders to make buying and selling decisions. By studying and evaluating past and current data, investors and traders attempt to gain an edge in the markets by making informed decisions.
+Stock Market Analysis via Microsoft Power BI
+Intro:
+
+Power BI is a lightweight, easy to use, free/inexpensive self-service business intelligence tool provided by Microsoft.all you will need is Power BI Desktop, which can be downloaded for free from windows web store or website.
+
+Step 1 Connecting to Data Sources:
+
+After launching PBI Desktop, you’ll want to select Get Data. Power BI makes it extremely easy to connect to a variety of data sources, but we’re going to focus on connecting through the Web sources.
+Head over to your finance website of choice. The Web source will work with any website that has a table. I have confirmed that this works with Yahoo Finance. For simplicity, and because I know that it works very simple way so  Copy the web address of the historical data web page containing the table and paste it into the web source in PBI. You’ll be able to preview all tables that have been found on the page. Select the table of interest but this time select Edit/Transform data as we will need to do some data cleansing. 
+
+Step 2 Cleansing the Data:
+
+Now that we have the historical data for the desired stock, let’s clean it up a bit using the Query Editor. Query Editor allows you to dig in and manipulate the data. Here you can transpose columns, promote the first row to headers, create new columns, change data types, and filter data.
+When the table is imported, the data types will likely all be set to ABC or text types. You’ll want to assign correct data types by clicking on the data type icon next to the column header. finished, rename your table to something more meaningful than “Table 1” by double-clicking on the table name from the left-hand side. The finished product should look something like this:
+To save changes and exit the Query Editor, navigate back to the Home tab and select Close & Apply.
+
+Step 3: Managing Table Relationships:
+
+Power BI enables you to manage relationships between tables directly inside of PBI Desktop. There are a couple of ways to do this, but for simplicity sake, we will be looking at the Relationships tab on the left side of PBI Desktop:
+
+Viewing Table Data:
+The Data tab of PBI Desktop enables you to do several things. Here, you can create a new table, columns, and measures to use in your analysis. You can also change data types as well as see a list of tables and their columns (Fields) on the right side. Selecting any table will bring a preview into the main presentation area of the window. One of my favorite features here is being able to hide objects, such as columns or measures, from the report view. This will come in handy if you decide you want to share your work with others and would like to limit what they can use in their reporting. To hide objects, right-click them from the Fields pane and select “Hide in Report View”.
+
+Step 4: Creating the First Report
+
+So, you should now have enough clean data to build out your first report. 
+One of the best things about Power BI is that it’s incredibly user-friendly. The drag-drop interface makes it simple for even the most entry-level users to quickly create useful insights. There are various key visualizations that I’m going to use in this project like the basic candle-stick chart, line, bar, slicer, etc.
+    
+Summary and Review:
+While the content presented has been extremely high level, and continuous updates being pushed out every day, I've only begun to scratch the surface of what Power BI can do. and lastly, I am not a professional stock market analyst it's just a project or showcase of my work.
+
+
+
+
+
+
